@@ -1,3 +1,5 @@
+https://hub.docker.com/repositories/marcin002
+
 docker run -d -p 8080:8080 --name sklepinternetowy-backend sklepinternetowy-backend:latest
 
 
