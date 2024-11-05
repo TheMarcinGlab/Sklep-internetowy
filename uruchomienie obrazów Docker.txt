@@ -1,0 +1,4 @@
+docker run -d -p 8080:8080 --name sklepinternetowy-backend sklepinternetowy-backend:latest
+
+
+docker run -d -p 4200:4200 --name sklepinternetowy-frontend sklepinternetowy-frontend:latest
